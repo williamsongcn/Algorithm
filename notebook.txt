@@ -1,0 +1,3 @@
+
+sorted(object,key,reverse)
+key should be a function for which your object can be a parameter
